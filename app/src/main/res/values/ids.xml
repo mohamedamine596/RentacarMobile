@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonAddNewVehicle" type="id">add_new_id</item>
+    <item name="vehicleName_txt" type="id">id_addnew</item>
+    <item name="vehicleModel_txt" type="id">id_add_new</item>
+</resources>

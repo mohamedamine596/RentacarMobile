@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">login\n</string>
+    <string name="admin_dashboard">Admin_dashboard</string>
+    <string name="availability">Availability</string>
+    <string name="daily_rate">Daily Rate</string>
+    <string name="vehicle_name">Vehicle Name</string>
+    <string name="vehicle_type">Vehicle Type</string>
+</resources>
